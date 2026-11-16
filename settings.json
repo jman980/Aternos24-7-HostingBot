@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "THE J SERVER",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "THE J SERVER",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "j-server-main.aternos.me",
+    "port": 29891,
     "version": "",
     "try-creative": false
   },
